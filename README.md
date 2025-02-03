@@ -11,6 +11,7 @@ Herramientas: Visual Studio Code, Git, IntelliJ IDEA, MySQL...
 
 
 📊 Estadísticas de  mi GitHub
+
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=rbordel2102&layout=compact&theme=radical)
 
 
