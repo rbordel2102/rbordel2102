@@ -1,31 +1,59 @@
-👋 ¡Hola! Soy rbordel2102
+# Hi, I'm Roberto Borrego 👋
 
-🚀 Sobre mí
+### Junior Software Developer
 
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado del desarrollo de software y la tecnología. Me encanta aprender cosas nuevas y contribuir a proyectos interesantes.
+I'm a web developer focused on building modern, maintainable web applications.
 
+My background includes **Web Application Development** and **Microcomputer Systems & Networks**, giving me experience across both software development and IT fundamentals.
 
-🛠️ Tecnologías y herramientas
-Lenguajes: HTML, CSS, JavaScript, Java y PHP
+Currently, I'm strengthening my skills in **TypeScript, modern frontend development, APIs, testing and software architecture** while building projects designed around real-world use cases.
 
-Frameworks y Librerías: React, Ionic, Angular, Node.js...
+---
 
-Herramientas: Visual Studio Code, Git, IntelliJ IDEA, MySQL...
+## 🧑‍💻 Tech Stack
 
+**Frontend**
 
-📊 Estadísticas de  mi GitHub
+`HTML5` · `CSS3` · `JavaScript` · `TypeScript` · `React` · `Angular`
 
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=rbordel2102&layout=compact&theme=radical)
+**Backend**
 
+`Node.js` · `PHP`
 
-📫 Contáctame
+**Databases**
 
-Si quieres ponerte en contacto conmigo, puedes hacerlo a través de:
+`MySQL`
 
-Email: robertobd05@gmail.com
+**Tools**
 
-LinkedIn: https://www.linkedin.com/in/roberto-borrego-1b410a315/
+`Git` · `GitHub` · `Visual Studio Code` · `IntelliJ IDEA`
 
-Instagram: robeertobd_
+---
 
-¡Gracias por visitar mi perfil! 😊
+## 🚀 What I'm working on
+
+* Building modern applications with **React and TypeScript**
+* Improving my knowledge of **REST APIs and frontend architecture**
+* Learning professional **testing and code-quality practices**
+* Expanding my knowledge of **Node.js and backend development**
+* Creating portfolio projects based on real-world problems
+
+---
+
+## 🎯 Current Goal
+
+I'm looking for my first opportunity as a:
+
+**Junior Web Developer · Junior Frontend Developer · Junior Full Stack Developer**
+
+I'm especially interested in teams where I can contribute, learn from experienced developers and continue growing through real-world software projects.
+
+---
+
+## 📫 Contact
+
+**Email:** [robertobd05@gmail.com](mailto:robertobd05@gmail.com)
+
+**LinkedIn:** [Roberto Borrego Delgado](https://www.linkedin.com/in/roberto-borrego-1b410a315/)
+
+**GitHub:** [@rbordel2102](https://github.com/rbordel2102/)
